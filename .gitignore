@@ -8,6 +8,7 @@ out-tsc
 # dependencies
 node_modules
 bioxakep-data
+initdb
 
 # IDEs and editors
 /.idea
